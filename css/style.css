@@ -268,12 +268,21 @@ html.fp-enabled,
   z-index: 10;
 
 }
-a, a:hover{
+.effect, .effect:hover{
   text-decoration: none;
   color: #fff;
   font-weight: bolder;
-
 }
-a:hover{
-  text-decoration: none;
+.row2{
+  text-align: center;
+  padding-top: 100px;
+  display: block;
+  top: 50%;
+}
+.btn{
+  background-color: transparent;
+  border: solid #fff;
+}
+.btn:hover{
+  background-color: transparent;
 }
