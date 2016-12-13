@@ -262,10 +262,18 @@ html.fp-enabled,
 }
 #section0{
   background-size: cover;
-  background-image: url(../images/people.jpg);
-  color: #grey;
+  background-image: url(../images/back.jpg);
+  color: #fff;
   font-size: ;
+  z-index: 10;
+
 }
-#section1>div{
-  padding: 20px 0;
+a, a:hover{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bolder;
+
+}
+a:hover{
+  text-decoration: none;
 }
