@@ -220,3 +220,62 @@ html.fp-enabled,
 .fp-responsive .fp-auto-height-responsive .fp-tableCell {
     height: auto !important;
 }
+.done{
+  text-align: center;
+}
+.stylish-panel {
+    padding: 20px 0;
+    text-align: center;
+}
+.stylish-panel > div > div{
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+.stylish-panel > div:hover > div{
+    margin-top: -10px;
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    background: rgba(200, 200, 200, 0.1);
+    transition: 0.5s;
+    background-color: darkcyan;
+    color: #fff;
+}
+.social{
+  width: 200px;
+  height: 200px;
+}
+#social,{
+  padding: 20px 0;
+  text-align: center;
+}
+#section3{
+  align-items: center;
+}
+#section0{
+  background-size: cover;
+  background-image: url(../images/back.jpg);
+  color: #fff;
+  font-size: ;
+  z-index: 10;
+
+}
+.effect, .effect:hover{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bolder;
+}
+.row2{
+  text-align: center;
+  padding-top: 100px;
+  display: block;
+  top: 50%;
+}
+.btn{
+  background-color: transparent;
+  border: solid #fff;
+}
+.btn:hover{
+  background-color: transparent;
+}
